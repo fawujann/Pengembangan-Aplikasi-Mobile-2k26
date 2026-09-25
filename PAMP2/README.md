@@ -2,7 +2,7 @@ Tugas Praktikum Pertemuan 2 - Pengembangan Aplikasi Mobile (PAM)
 
 - **Nama:** Muhammad Fauzan Naufal
 - **NIM:** 123140150
-- **Kelas:** PAM RB
+- **Kelas:** PAM RA
 
 
 ## Tutor Running
